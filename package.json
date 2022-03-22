@@ -1,0 +1,30 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "I like food, I also have a bad memory. Keeping recipes here.",
+  "main": "index.js",
+  "scripts": {
+    "generate:recipes": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrferos/recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrferos/recipes/issues"
+  },
+  "homepage": "https://github.com/mrferos/recipes#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "prettier": "^2.6.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@cooklang/cooklang-ts": "^1.0.0"
+  }
+}

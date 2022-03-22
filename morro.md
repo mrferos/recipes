@@ -1,5 +1,0 @@
-# Arroz Congri
-
-## Ingredients
-
-## Instructions
